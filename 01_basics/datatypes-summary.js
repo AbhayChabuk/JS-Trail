@@ -44,8 +44,36 @@ const myFunction = function(){
 
 // Function to find datatype of variable
 
-console.log(typeof bigNumber);
-console.log(typeof myFunction);
-console.log(typeof heros);
-console.log(typeof myObj);
+// console.log(typeof bigNumber);
+// console.log(typeof myFunction);
+// console.log(typeof heros);
+// console.log(typeof myObj);
 
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+// Stack (Primitive)  , Heap (Reference)
+
+let myName = "AbhayChabuk"
+
+let anothername = myName
+anothername = "Abhya"
+
+// console.log(myName);
+// console.log(anothername);
+
+
+let userOne = {
+    email : "user@gmail.com",
+    upi : "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "abhay@gmail.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
