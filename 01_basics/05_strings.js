@@ -28,10 +28,14 @@ console.log(newString);
 const anotherString = gameName.slice(-8, 4)
 console.log(anotherString);
 
-
+// trim
 const newName = "    Abhay    "
 console.log(newName);
 console.log(newName.trim());
+
+// replace
+const url = "Abhay@Chabuk"
+console.log(url.replace('@', '_'));
 
 
 
