@@ -37,6 +37,14 @@ console.log(newName.trim());
 const url = "Abhay@Chabuk"
 console.log(url.replace('@', '_'));
 
+// includes
+console.log(url.includes('sam'));
+
+// Convert string to array
+console.log(url.split('@'));
+
+
+
 
 
 
