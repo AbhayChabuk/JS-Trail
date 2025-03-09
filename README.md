@@ -6,8 +6,7 @@ I have embarked on a journey to master JavaScript, guided by Hitesh Choudhary (C
 
 # ✨ Learning Every Day
 <p>
-<b>"I start early, and I stay late, day after day, year after year. It took me 17 years and 114 days to become an overnight success."<b/><br>  
-&nbsp; &nbsp; &nbsp; &nbsp;  – Lionel Messi </p>
-<br>
+<b>"I start early, and I stay late, day after day, year after year. It took me 17 years and 114 days to become an overnight success."<b/>  
+– Lionel Messi </p>
 Consistency is key in mastering any skill, and I strongly believe in the power of daily learning. Whether it's core JavaScript concepts, DOM manipulation, ES6+ features, or working on real-world projects, this repository is where I track my progress one step at a time.
 
